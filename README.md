@@ -1,2 +1,2 @@
 # demo
-it is just a demo repository
+it is just a demo repository for git 
